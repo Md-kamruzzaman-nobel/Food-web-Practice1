@@ -1,0 +1,153 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  color:gray;
+  background-color: whitesmoke;
+  border: 2px solid white;
+  margin: 0%;
+}
+
+/**font tags start**/
+
+h1{
+  font-size: 70px;
+}
+h2{
+  font-size: 60px;
+}
+.orange-color{
+  color: orange;
+}
+h3{
+  font-size: 30px;
+  color: black;
+}
+h4{
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+p{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.follower-h2-font{
+color: black;
+font-weight: 1000;
+}
+
+/**font tags end**/
+
+.link-button{
+  text-decoration: none;
+  background-image: linear-gradient(45deg, orange, rgb(243, 47, 47));
+  padding: 10px 20px;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+}
+#img-size{
+  width: 66%;
+}
+
+/**Diffrent section part start**/
+
+.first-section{
+  height: 760px; 
+}
+.second-section{
+    height: 760px;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.third-section{
+  height: 730px;
+  margin: 4%;
+}
+
+.fourth-section{
+  height: 400px;  
+}
+/**Diffrent section part end**/
+
+.half-width{
+  width: 46%;
+  float: left;
+  margin: 2%;
+  
+}
+.half-width img{
+  width: 80%;
+}
+
+.baby-div{
+  margin-top: 20%;
+}
+/**recipies section part start**/
+.recipies-head{
+  text-align: center;
+}
+.recipies-div{
+  margin-left: 3%;
+}
+
+.recipies-style{
+  height: 500px;
+  float: left;
+  width: 28%;
+  box-shadow: 10px 10px 20px rgb(61, 59, 59);
+  margin: 2%;
+  border-radius: 15px;
+
+}
+.recipies-style img{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.recipies-style p{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.recipies-style h4{
+  margin-left: 5%;
+}
+/**recipies section part send**/
+
+/**social section part start**/
+.follower-part{
+   
+  height: 250px;
+  width: 80%;
+  margin: 10%;
+  box-shadow: 10px 10px 20px rgb(61, 59, 59);
+  border-radius: 20px;
+  background-color: white;
+}
+
+.social-media{
+  float: left;
+  margin: 8%;
+  margin-top: 3%;
+  padding: 2%;
+  line-height: 20px;
+}
+/**social section part end**/
+
+/**footer section part start**/
+footer{
+  height: 350px;
+  background-color:black;
+}
+
+.footer-section{
+  text-align: center;
+  padding: 2%;
+}
+
+#footer-part{
+  font-size: 30px;
+  color: white;
+  font-weight: 400;
+}
+/**footer section part end**/
